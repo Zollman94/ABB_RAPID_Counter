@@ -9,31 +9,31 @@ MODULE Module1
     !--------------------!
     !       Counter      !
     !--------------------!
-    PERS num nRanni0:=0;
-    PERS num nRanni1:=6;
-    PERS num nRanni2:=0;
-    PERS num nRanni3:=35;
-    PERS num nRanni4:=25;
-    PERS num nRanni5:=0;
-    PERS num nOdpoledni0:=152;
+    PERS num nRanni0:=84;
+    PERS num nRanni1:=10;
+    PERS num nRanni2:=2;
+    PERS num nRanni3:=30;
+    PERS num nRanni4:=40;
+    PERS num nRanni5:=2;
+    PERS num nOdpoledni0:=226;
     PERS num nOdpoledni1:=60;
     PERS num nOdpoledni2:=9;
     PERS num nOdpoledni3:=5;
     PERS num nOdpoledni4:=152;
     PERS num nOdpoledni5:=0;
-    PERS num nNocni0:=0;
+    PERS num nNocni0:=11;
     PERS num nNocni1:=0;
     PERS num nNocni2:=1;
     PERS num nNocni3:=10;
     PERS num nNocni4:=0;
     PERS num nNocni5:=0;
-    PERS num nDen1:=66;
-    PERS num nDen2:=10;
-    PERS num nDen3:=50;
-    PERS num nDen4:=177;
-    PERS num nDen5:=0;
-    PERS num nTotalWeek:=673;
-    PERS num nTotal:=152;
+    PERS num nDen1:=70;
+    PERS num nDen2:=11;
+    PERS num nDen3:=45;
+    PERS num nDen4:=192;
+    PERS num nDen5:=2;
+    PERS num nTotalWeek:=320;
+    PERS num nTotal:=320;
     VAR num nWeekDay:=0;
     VAR num nHour:=0;
     VAR string ranni_str;
