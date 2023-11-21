@@ -1,11 +1,12 @@
 MODULE Module1
-    !!!!! Useless data !!!!
+    !!!!! Data for presentation routine !!!!
     PERS tooldata tFix:=[TRUE,[[0,0,50],[1,0,0,0]],[0.1,[0,0,10],[1,0,0,0],0,0,0]];
     CONST jointtarget jHome:=[[0,0,0,0,0,0],[9E+9,9E+9,9E+9,9E+9,9E+9,9E+9]];
     CONST robtarget pBox:=[[298.35,-4.43,217.57],[5.90494E-9,0.812075,0.583553,7.96518E-9],[-1,0,1,0],[9E+9,9E+9,9E+9,9E+9,9E+9,9E+9]];
     VAR num nCykly:=0;
     VAR num nAktCykly:=0;
     VAR num nBoxSize:=0;
+    !
     !--------------------!
     !       Counter      !
     !--------------------!
