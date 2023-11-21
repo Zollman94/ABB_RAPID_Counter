@@ -1,4 +1,4 @@
 # Counter for products 
 ## with sorting by work shifts of operators for ABB robots.
-
-![Snímek obrazovky 2023-11-09 194109](https://github.com/Zollman94/RAPID_Counter/assets/140598268/2313a6f1-ea8d-40c5-b942-75f32a16afc9)
+## Keeps numbers aligned in collums and rows.
+![Screenshot 2023-11-21 191207](https://github.com/Zollman94/ABB_RAPID_Counter/assets/140598268/d8c07fb3-c403-4908-b8d9-1492be730927)
