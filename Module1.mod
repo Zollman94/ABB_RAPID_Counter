@@ -142,7 +142,7 @@ MODULE Module1
             Incr nRanni1;
         ELSEIF nHour>=14 AND nHour<=21 THEN
             Incr nOdpoledni1;
-        ELSEIF nHour>=22 AND nHour<=5 THEN
+        ELSE
             Incr nNocni1;
         ENDIF
     ENDPROC
@@ -152,7 +152,7 @@ MODULE Module1
             Incr nRanni2;
         ELSEIF nHour>=14 AND nHour<=21 THEN
             Incr nOdpoledni2;
-        ELSEIF nHour>=22 AND nHour<=5 THEN
+        ELSE
             Incr nNocni2;
         ENDIF
     ENDPROC
@@ -162,7 +162,7 @@ MODULE Module1
             Incr nRanni3;
         ELSEIF nHour>=14 AND nHour<=21 THEN
             Incr nOdpoledni3;
-        ELSEIF nHour>=22 AND nHour<=5 THEN
+        ELSE
             Incr nNocni3;
         ENDIF
     ENDPROC
@@ -172,7 +172,7 @@ MODULE Module1
             Incr nRanni4;
         ELSEIF nHour>=14 AND nHour<=21 THEN
             Incr nOdpoledni4;
-        ELSEIF nHour>=22 AND nHour<=5 THEN
+        ELSE
             Incr nNocni4;
         ENDIF
     ENDPROC
@@ -182,7 +182,7 @@ MODULE Module1
             Incr nRanni5;
         ELSEIF nHour>=14 AND nHour<=21 THEN
             Incr nOdpoledni5;
-        ELSEIF nHour>=22 AND nHour<=5 THEN
+        ELSE
             Incr nNocni5;
         ENDIF
     ENDPROC
@@ -192,7 +192,7 @@ MODULE Module1
             Incr nRanni0;
         ELSEIF nHour>=14 AND nHour<=21 THEN
             Incr nOdpoledni0;
-        ELSEIF nHour>=22 AND nHour<=5 THEN
+        ELSE
             Incr nNocni0;
         ENDIF
         Incr nTotal;
